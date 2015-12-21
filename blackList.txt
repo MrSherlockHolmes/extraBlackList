@@ -17,67 +17,7 @@
 
 # SABRI MEERAN [FILTERS OUT A LOT, ADD EXCEPTIONS.]
 
-/(porn|pron|fetish|blowjob|pussy|masturbate|hotgirls|sexygirls|chaturbate|myfreecams|camster|cock|dick|penis|vagina|cunt|fuc?k|shit|piss|bastard|slut|bitch|ni?gge?r|kkk|boner|whore|anal|oral|asshole|butt|erotic|babe|tits|boob|cocaine|heroin|vulva|clitoris|hardcore|xxx|naked|pwn|faggot|dildo|comdom|prostitute|paedophile|pee|semen|cum|twat|erect|na[zs]i|orga[sz]m|[jg]izz|hentai)/i
-
-/(lesbian|gay|straight)?(adult|sex)(cam|chat)/i
-
-aebn.net
-xhamster.com
-empflix.com
-spankwire.com
-tnaflix.com
-tube8.com
-extremetube.com
-mofosex.com
-4tube.com
-egbo.com
-deviantclip.com
-xtube.com
-xvideos.com
-brazzers.com
-filthfreaks.com
-punishtube.com
-ebonytugs.com
-gggdevot.com
-sunrisekings.com
-twistys.com
-adultfriendfinder.com
-virginconfession.com
-hdinternethookups.com
-
-# TRUMP SITES [DISPLAY WARNING?]
-
-electtrump.com
-trumparmy.com
-trumpair.com
-thinklikeatrump.com
-donaldtrumpbed.com
-donaldtrumpmattress.com
-donaldtrumptea.com
-trumpcoffeebeans.com
-trumptats.com
-donaldtrumpcarpet.com
-trumpluxurycandles.com
-donaldtrumpeyewear.com
-trumpshoesmexico.com
-trumpmattresses.com
-trumpmexicocity.com
-trumportunityknocks.com
-donaldtrumpfootwearmexico.com
-donaldtrumpofficechairs.com
-trumpdoll.com
-trumpsteaks.com
-trumphomecrystalgifts.com
-trumpmexico.com
-donaldtrumpangels.com
-trumpandoj.com
-donaldjtrump.com
-isupporttrump.com
-trumpforthewin.com
-
-# SMOKER SITES [DISPLAY WARNING?]
-
-forestonline.org
+/(electtrump\.com|trumparmy\.com|trumpair\.com|thinklikeatrump\.com|donaldtrumpbed\.com|donaldtrumpmattress\.com|donaldtrumptea\.com|trumpcoffeebeans\.com|trumptats\.com|donaldtrumpcarpet\.com|trumpluxurycandles\.com|donaldtrumpeyewear\.com|trumpshoesmexico\.com|trumpmattresses\.com|trumpmexicocity\.com|trumportunityknocks\.com|donaldtrumpfootwearmexico\.com|donaldtrumpofficechairs\.com|trumpdoll\.com|trumpsteaks\.com|trumphomecrystalgifts\.com|trumpmexico\.com|donaldtrumpangels\.com|trumpandoj\.com|donaldjtrump\.com|isupporttrump\.com|trumpforthewin\.com|forestonline\.org|aebn\.net|xhamster\.com|empflix\.com|spankwire\.com|tnaflix\.com|tube8\.com|extremetube\.com|mofosex\.com|4tube\.com|egbo\.com|deviantclip\.com|xtube\.com|xvideos\.com|brazzers\.com|filthfreaks\.com|punishtube\.com|ebonytugs\.com|gggdevot\.com|sunrisekings\.com|twistys\.com|adultfriendfinder\.com|virginconfession\.com|hdinternethookups\.com|(lesbian|gay|straight)?(adult|sex)(cam|chat)|porn|pron|fetish|blowjob|pussy|masturbate|hotgirls|sexygirls|chaturbate|myfreecams|camster|cock|dick|penis|vagina|cunt|fuc?k|shit|piss|bastard|slut|bitch|ni?gge?r|kkk|boner|whore|anal|oral|asshole|butt|erotic|babe|tits|boob|cocaine|heroin|vulva|clitoris|hardcore|xxx|naked|pwn|faggot|dildo|comdom|prostitute|paedophile|pee|semen|cum|twat|erect|na[zs]i|orga[sz]m|[jg]izz|hentai)/i
 
 # EXCEPTIONS
 
