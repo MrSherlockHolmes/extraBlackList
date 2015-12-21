@@ -9,24 +9,10 @@
 # FOR USAGE ALONGSIDE OTHER BLACKLISTS. CHECK IF THING IS ALREADY  #
 # BLACKLISTED ON OTHER BLACKLISTS. COMMENT OUT THINGS THAT ARE NOT #
 # REQUIRED. REMOVE THINGS THAT ARE NOT BAD.                        #
-# DO NOT DELETE THIS LINE, OR THE FOLLOWING LINES.                 #
-# DON'T WORRY ABOUT LEETSPEAK.                                     #
+# LEETSPEAK TO BE ADDED? MAYBE! :P                                 #
+# THIS LIST IS NSFW.                                               #
 #                                                                  #
 #                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-#                                                                  #
-
 ####################################################################            
 
 # SABRI MEERAN [FILTERS OUT A LOT, ADD EXCEPTIONS.]
