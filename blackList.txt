@@ -2,22 +2,23 @@
 #                                                                  #
 #                                                                  #
 # YOU SHOULD KNOW REGULAR EXPRESSION!                              #
-# UNDER PUBLIC DOMAIN, ORIGINALLY OWNED BY SABRI MEERAN            #
+# ORIGINAL AUTHOR: SABRI MEERAN                                    #
 # IF YOU CONTRIBUTE, GIVE YOURSELF CREDIT WITH COMMENTS USING THE  #
 # HASHTAG [#] KEY.                                                 #
 # USE IT TO GIVE REASON FOR BLACKLISTING, ALSO.                    #
 # FOR USAGE ALONGSIDE OTHER BLACKLISTS. CHECK IF THING IS ALREADY  #
 # BLACKLISTED ON OTHER BLACKLISTS. COMMENT OUT THINGS THAT ARE NOT #
 # REQUIRED. REMOVE THINGS THAT ARE NOT BAD.                        #
-# LEETSPEAK TO BE ADDED? MAYBE! :P                                 #
-# THIS LIST IS NSFW.                                               #
-#                                                                  #
-#                                                                  #
+# CURRENTLY DON'T WORRY ABOUT LEETSPEAK :P LIST IS NSFW.           #
+# 1. ADD ITEMS TO LIST & CREDIT YOURSELF!                          #
+# 2. COMPRESS EXISTING ITEMS.                                      #
+# 3. RECHECK BLACKLISTED ITEMS.                                    #
+# 4. ADD ITEMS OF LINK SHORTENERS.                                 #
 ####################################################################            
 
 # SABRI MEERAN [FILTERS OUT A LOT, ADD EXCEPTIONS.]
 
-/(electtrump\.com|trumparmy\.com|trumpair\.com|thinklikeatrump\.com|donaldtrumpbed\.com|donaldtrumpmattress\.com|donaldtrumptea\.com|trumpcoffeebeans\.com|trumptats\.com|donaldtrumpcarpet\.com|trumpluxurycandles\.com|donaldtrumpeyewear\.com|trumpshoesmexico\.com|trumpmattresses\.com|trumpmexicocity\.com|trumportunityknocks\.com|donaldtrumpfootwearmexico\.com|donaldtrumpofficechairs\.com|trumpdoll\.com|trumpsteaks\.com|trumphomecrystalgifts\.com|trumpmexico\.com|donaldtrumpangels\.com|trumpandoj\.com|donaldjtrump\.com|isupporttrump\.com|trumpforthewin\.com|forestonline\.org|aebn\.net|xhamster\.com|empflix\.com|spankwire\.com|tnaflix\.com|tube8\.com|extremetube\.com|mofosex\.com|4tube\.com|egbo\.com|deviantclip\.com|xtube\.com|xvideos\.com|brazzers\.com|filthfreaks\.com|punishtube\.com|ebonytugs\.com|gggdevot\.com|sunrisekings\.com|twistys\.com|adultfriendfinder\.com|virginconfession\.com|hdinternethookups\.com|(lesbian|gay|straight)?(adult|sex)(cam|chat)|porn|pron|fetish|blowjob|pussy|masturbate|hotgirls|sexygirls|chaturbate|myfreecams|camster|cock|dick|penis|vagina|cunt|fuc?k|shit|piss|bastard|slut|bitch|ni?gge?r|kkk|boner|whore|anal|oral|asshole|butt|erotic|babe|tits|boob|cocaine|heroin|vulva|clitoris|hardcore|xxx|naked|pwn|faggot|dildo|comdom|prostitute|paedophile|pee|semen|cum|twat|erect|na[zs]i|orga[sz]m|[jg]izz|hentai)/i
+/(electtrump\.com|trumparmy\.com|trumpair\.com|thinklikeatrump\.com|donaldtrumpbed\.com|donaldtrumpmattress\.com|donaldtrumptea\.com|trumpcoffeebeans\.com|trumptats\.com|donaldtrumpcarpet\.com|trumpluxurycandles\.com|donaldtrumpeyewear\.com|trumpshoesmexico\.com|trumpmattresses\.com|trumpmexicocity\.com|trumportunityknocks\.com|donaldtrumpfootwearmexico\.com|donaldtrumpofficechairs\.com|trumpdoll\.com|trumpsteaks\.com|trumphomecrystalgifts\.com|trumpmexico\.com|donaldtrumpangels\.com|trumpandoj\.com|donaldjtrump\.com|isupporttrump\.com|trumpforthewin\.com|forestonline\.org|aebn\.net|xhamster\.com|empflix\.com|spankwire\.com|tnaflix\.com|tube8\.com|extremetube\.com|mofosex\.com|4tube\.com|egbo\.com|deviantclip\.com|xtube\.com|xvideos\.com|brazzers\.com|filthfreaks\.com|punishtube\.com|ebonytugs\.com|gggdevot\.com|sunrisekings\.com|twistys\.com|adultfriendfinder\.com|virginconfession\.com|hdinternethookups\.com|(lesbian|gay|straight)?(adult|sexy?|hot)(cam|chat|girl|boy)|porn|pron|fetish|blowjob|pussy|masturbate|chaturbate|myfreecams|camster|cock|dick|penis|vagina|cunt|fuc?k|shit|piss|bastard|slut|bitch|ni?gge?r|kkk|boner|whore|anal|oral|asshole|butt|erotic|babe|tits|boob|cocaine|heroin|vulva|clitoris|hardcore|xxx|naked|pwn|faggot|dildo|comdom|prostitute|paedophile|pee|semen|cum|twat|erect|na[zs]i|orga[sz]m|[jg]izz|hentai)/i
 
 # EXCEPTIONS
 
