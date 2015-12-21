@@ -19,7 +19,7 @@
 
 /(porn|pron|fetish|blowjob|pussy|masturbate|hotgirls|sexygirls|chaturbate|myfreecams|camster|cock|dick|penis|vagina|cunt|fuc?k|shit|piss|bastard|slut|bitch|ni?gge?r|kkk|boner|whore|anal|oral|asshole|butt|erotic|babe|tits|boob|cocaine|heroin|vulva|clitoris|hardcore|xxx|naked|pwn|faggot|dildo|comdom|prostitute|paedophile|pee|semen|cum|twat|erect|na[zs]i|orga[sz]m|[jg]izz|hentai)/i
 
-/(adult|sex)(cam|chat)/i
+/(lesbian|gay|straight)?(adult|sex)(cam|chat)/i
 
 aebn.net
 xhamster.com
