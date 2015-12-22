@@ -1,6 +1,6 @@
  ####################################################################
- #                                                                  #
- #                                                                  #
+ # BLACKLIST MUST BE ONE LINE 21, NO EXCEPTIONS!                    #
+ # WHITELIST MUST BE ONE LINE 25, NO EXCEPTIONS!                    #
  # YOU SHOULD KNOW REGULAR EXPRESSION!                              #
  # ORIGINAL AUTHOR: SABRI MEERAN                                    #
  # IF YOU CONTRIBUTE, GIVE YOURSELF CREDIT WITH COMMENTS USING THE  #
