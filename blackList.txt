@@ -22,4 +22,4 @@
 
  # EXCEPTIONS
  
-/(hardcoreprawnlawn\.com|scunthorpe|lightwater|canal|911memorial.org|911groundzero.com)/igm
+/(hardcoreprawnlawn\.com|scunthorpe|lightwater|canal|911memorial\.org|911groundzero\.com)/igm
