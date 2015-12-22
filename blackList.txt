@@ -13,7 +13,7 @@
  # 1. ADD ITEMS TO LIST & CREDIT YOURSELF!                          #
  # 2. COMPRESS EXISTING ITEMS.                                      #
  # 3. RECHECK BLACKLISTED ITEMS.                                    #
- # 4. ADD ITEMS OF LINK SHORTENERS.                                 #
+ # 4. ADD ITEMS OF LINK SHORTENERS EXCEPT IS.GD / V.GD              #
  ####################################################################            
  
  # SABRI MEERAN [FILTERS OUT A LOT, ADD EXCEPTIONS.]
